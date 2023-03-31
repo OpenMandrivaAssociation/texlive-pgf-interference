@@ -1,6 +1,6 @@
 Name:		texlive-pgf-interference
 Version:	61562
-Release:	1
+Release:	2
 Summary:	Drawing interference patterns with PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgf-interference
