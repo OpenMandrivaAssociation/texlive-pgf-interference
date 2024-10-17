@@ -3,7 +3,7 @@ Version:	61562
 Release:	2
 Summary:	Drawing interference patterns with PGF/TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgf-interference
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pgf-interference
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgf-interference.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgf-interference.doc.r%{version}.tar.xz
